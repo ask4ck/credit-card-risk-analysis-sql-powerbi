@@ -30,6 +30,9 @@ credit-card-risk-analysis-sql-powerbi/
 │
 ├── powerbi/
 │ ├── Credit_Card_Risk_Dashboard.pbix
+| ├── Dashboard
+| |  ├──executive_summary.png
+| |  ├──Risk & Security.png
 │
 ├── data/
 │ ├── credit_card_data.csv
@@ -52,6 +55,15 @@ credit-card-risk-analysis-sql-powerbi/
 - Risk & Security analysis page
 - Interactive slicers (brand, card type, chip status)
 - Custom DAX measures for risk indicators
+
+## 📊 Power BI Dashboard
+
+### Executive Summary
+![Executive Summary](dashboard/executive_summary.png)
+
+### Risk & Security Analysis
+![Risk & Security](dashboard/risk_security_page.png)
+
 
 ---
 
